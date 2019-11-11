@@ -1,0 +1,612 @@
+[
+    {
+        "imdbRating": 9.3,
+        "title": "Nyckeln till frihet",
+        "year": "1994"
+    },
+    {
+        "imdbRating": 9.2,
+        "title": "Gudfadern",
+        "year": "1972"
+    },
+    {
+        "imdbRating": 9,
+        "title": "Gudfadern del II",
+        "year": "1974"
+    },
+    {
+        "imdbRating": 9,
+        "title": "The Dark Knight",
+        "year": "2008"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "12 edsvurna män",
+        "year": "1957"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "Schindler's List",
+        "year": "1993"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "Pulp Fiction",
+        "year": "1994"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "Sagan om konungens återkomst",
+        "year": "2003"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "Den gode, den onde, den fule",
+        "year": "1966"
+    },
+    {
+        "imdbRating": 8.8,
+        "title": "Fight Club",
+        "year": "1999"
+    },
+    {
+        "imdbRating": 8.8,
+        "title": "Sagan om ringen: Härskarringen",
+        "year": "2001"
+    },
+    {
+        "imdbRating": 8.8,
+        "title": "Rymdimperiet slår tillbaka",
+        "year": "1980"
+    },
+    {
+        "imdbRating": 8.8,
+        "title": "Forrest Gump",
+        "year": "1994"
+    },
+    {
+        "imdbRating": 8.8,
+        "title": "Inception",
+        "year": "2010"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Sagan om de två tornen",
+        "year": "2002"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Gökboet",
+        "year": "1975"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Maffiabröder",
+        "year": "1990"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Matrix",
+        "year": "1999"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "De sju samurajerna",
+        "year": "1954"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Stjärnornas krig",
+        "year": "1977"
+    },
+    {
+        "imdbRating": 8.7,
+        "title": "Guds stad",
+        "year": "2002"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Seven",
+        "year": "1995"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "När lammen tystnar",
+        "year": "1991"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Livet är underbart",
+        "year": "1946"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "De misstänkta",
+        "year": "1995"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Livet är underbart",
+        "year": "1997"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Léon",
+        "year": "1994"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Spirited Away",
+        "year": "2001"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Rädda menige Ryan",
+        "year": "1998"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Harmonica - En hämnare",
+        "year": "1968"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "American History X",
+        "year": "1998"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Interstellar",
+        "year": "2014"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Casablanca",
+        "year": "1942"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Psycho",
+        "year": "1960"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Stadens ljus",
+        "year": "1931"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Den gröna milen",
+        "year": "1999"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "En oväntad vänskap",
+        "year": "2011"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Moderna tider",
+        "year": "1936"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Jakten på den försvunna skatten",
+        "year": "1981"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Fönstret åt gården",
+        "year": "1954"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "The Pianist",
+        "year": "2002"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "The Departed",
+        "year": "2006"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Terminator 2 - Domedagen",
+        "year": "1991"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Tillbaka till framtiden",
+        "year": "1985"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Whiplash",
+        "year": "2014"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Gladiator",
+        "year": "2000"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Memento",
+        "year": "2000"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Apocalypse",
+        "year": "1979"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "The Prestige",
+        "year": "2006"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Lejonkungen",
+        "year": "1994"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Alien",
+        "year": "1979"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Dr. Strangelove eller: Hur jag slutade ängslas och lärde mig älska bomben",
+        "year": "1964"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Sunset Boulevard",
+        "year": "1950"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Diktatorn",
+        "year": "1940"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Cinema Paradiso",
+        "year": "1988"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "De andras liv",
+        "year": "2006"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Eldflugornas grav",
+        "year": "1988"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Ärans väg",
+        "year": "1957"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Django Unchained",
+        "year": "2012"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "The Shining",
+        "year": "1980"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "La La Land",
+        "year": "2016"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Wall-E",
+        "year": "2008"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "American Beauty",
+        "year": "1999"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "The Dark Knight Rises",
+        "year": "2012"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Prinsessan Mononoke",
+        "year": "1997"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Aliens - Återkomsten",
+        "year": "1986"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Old Boy - Hämnden",
+        "year": "2003"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Once Upon a Time in America",
+        "year": "1984"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "En sensation",
+        "year": "1941"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Ubåten",
+        "year": "1981"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Åklagarens vittne",
+        "year": "1957"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "I sista minuten",
+        "year": "1959"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Studie i brott",
+        "year": "1958"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Jedins återkomst",
+        "year": "1983"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "De hänsynslösa",
+        "year": "1992"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "M",
+        "year": "1931"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Braveheart",
+        "year": "1995"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Requiem for a Dream",
+        "year": "2000"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Amelie från Montmartre",
+        "year": "2001"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Clockwork Orange",
+        "year": "1971"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Taxi Driver",
+        "year": "1976"
+    },
+    {
+        "imdbRating": 8.5,
+        "title": "Taare Zameen Par",
+        "year": "2007"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Lawrence av Arabien",
+        "year": "1962"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Kvinna utan samvete",
+        "year": "1944"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Skuggor över södern",
+        "year": "1962"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Amadeus",
+        "year": "1984"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Toy Story 3",
+        "year": "2010"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Full Metal Jacket",
+        "year": "1987"
+    },
+    {
+        "imdbRating": 8.9,
+        "title": "Dangal",
+        "year": "2016"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Blåsningen",
+        "year": "1973"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "År 2001 - Ett rymdäventyr",
+        "year": "1968"
+    },
+    {
+        "imdbRating": 8.6,
+        "title": "Babam ve Oglum",
+        "year": "2005"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Singin' in the Rain",
+        "year": "1952"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Toy Story",
+        "year": "1995"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Cykeltjuven",
+        "year": "1948"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Chaplins pojke",
+        "year": "1921"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Inglourious Basterds",
+        "year": "2009"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Snatch",
+        "year": "2000"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Monty Pythons galna värld",
+        "year": "1975"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "3 Idiots",
+        "year": "2009"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "L.A. konfidentiellt",
+        "year": "1997"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "För några få dollar mer",
+        "year": "1965"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Scarface",
+        "year": "1983"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Jakten",
+        "year": "2012"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Demonernas port",
+        "year": "1950"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Ungkarlslyan",
+        "year": "1960"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Will Hunting",
+        "year": "1997"
+    },
+    {
+        "imdbRating": 8.4,
+        "title": "Nader och Simin - En separation",
+        "year": "2011"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Indiana Jones och det sista korståget",
+        "year": "1989"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Metropolis",
+        "year": "1927"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Allt om Eva",
+        "year": "1950"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Yojimbo (Livvakten)",
+        "year": "1961"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Batman Begins",
+        "year": "2005"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Upp",
+        "year": "2009"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "I hetaste laget",
+        "year": "1959"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Sierra Madres skatt",
+        "year": "1948"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "De skoningslösa",
+        "year": "1992"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Undergången - Hitler och Tredje rikets fall",
+        "year": "2004"
+    },
+    {
+        "imdbRating": 8.2,
+        "title": "Tjuren från Bronx",
+        "year": "1980"
+    },
+    {
+        "imdbRating": 8.3,
+        "title": "Den tredje mannen",
+        "year": "1949"
+    },
+    {
+        "imdbRating": 8.2,
+        "title": "Die Hard",
+        "year": "1988"
+    }
+]
