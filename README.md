@@ -5,6 +5,7 @@
 1. Fork and clone this repo.
 1. Run `npm install`.
 1. Write your code in `src/server.js`. You can split code into separate files if needed.
+1. In `package.json` already exists `start` script to run your server.
 
 ## Task
 
