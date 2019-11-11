@@ -22,7 +22,7 @@ Use data from `data.json` to create express server with next endpoints:
 ## Extra task
 (Require file system opperations and body parsing)
 
-1. Create a POST API on `/movies` that inserts a new movie with the provided title and release year into the `data.json` and return created movie (with id) as JSON. Request should contains body with movie object(`{ "title": "Title", "year": 1984 }`).
+1. Create a POST API on `/movies` that inserts a new movie with the provided title and release year into the `data.json` and return created movie (with id) as JSON. Request should contains body with movie object(`{ "title": "Title", "year": 1984 }`). Use [uuid](https://www.npmjs.com/package/uuid) library to create new ID\`s(`const uuid = require('uuid/v4'); const id = uuid()`)
 
 1. Create a PUT API on `/movies/<id>` that updates the given movie in `data.json` by id with the provided title and year. For the response, return the updated movie (with id) as JSON. Request should contains body with movie object(`{ "title": "Title", "year": 1984 }`).
 
