@@ -26,7 +26,10 @@ app.get('/movies/titles', (req, res) => {
     }
 
 
-    titles = titles.map(({ title }) => title).sort().reduce((acum, title) => acum + ` <h2>${title}</h2>`, '');
+    titles = titles
+        .map(({ title }) => title)
+        .sort()
+        .reduce((acum, title) => acum + ` <h2>${title}</h2>`, '');
 
     res.send(titles);
 });
